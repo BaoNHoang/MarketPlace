@@ -1,7 +1,7 @@
 import discord
 from discord import commands
 
-
+#test
 client = commands.Bot(command_prefix = '!')
 
 @client.event
